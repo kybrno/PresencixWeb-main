@@ -61,7 +61,7 @@ export default function Hero() {
             variants={item}
             className="text-lg md:text-xl text-muted-foreground max-w-lg mb-12 leading-relaxed font-light"
           >
-            Custom-built websites delivered in 24 hours. $350 flat — no agencies,
+            Custom-built websites delivered in 24 hours. $400 flat — no agencies,
             no overhead, no surprises.
           </motion.p>
 

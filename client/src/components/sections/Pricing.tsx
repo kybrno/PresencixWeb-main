@@ -52,7 +52,7 @@ export default function Pricing() {
                   className="text-[5.5rem] font-bold text-foreground leading-none mb-2"
                   style={{ fontFamily: "'Playfair Display', serif" }}
                 >
-                  $350
+                  $400
                 </div>
                 <p className="text-xs text-muted-foreground font-medium tracking-widest uppercase">
                   Flat rate · any website
